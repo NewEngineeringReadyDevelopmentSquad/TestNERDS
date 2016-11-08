@@ -2,6 +2,7 @@
 **Produce a _WELL DOCUMENTED_ functional multi-recipient multi-attachment Email class**
 
 **Return type**: _void_
+
 **Parameters**: _ArrayList_ of recipients, _ArrayList_ of attachments (as paths in the local machine), _String_ message.
 
 **Potential Throwable Errors**: _invalidRecipient_, _noConnection_, _FileNotFound_,_messageTooLarge?_.
